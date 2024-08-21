@@ -1,0 +1,13 @@
+/* Patient.css */
+.custom-bg-blue {
+    background-color: blue;
+    color: white; /* Ensure text is readable against the blue background */
+  }
+  
+  /* Ensure responsive text sizes */
+  .fs-4 { font-size: 1.25rem; } /* Example for small devices */
+  .fs-2 { font-size: 2rem; }    /* Example for larger devices */
+  .fs-6 { font-size: 1rem; }    /* Example for small devices */
+  .fs-md-4 { font-size: 1.5rem; } /* Example for medium devices */
+  .fs-md-6 { font-size: 1.25rem; } /* Example for medium devices */
+  
